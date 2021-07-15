@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ''
-url: 'https://ammyat-takashi.github.io'
+url: 'https://ammyat.vercel.app'
 
 # THEME-SPECIFIC CONFIGURATION
 title: AMMyat's Blog # site's title
@@ -9,7 +9,7 @@ avatar: assets/img/avatar.png # Empty for no avatar in navbar
 favicon: assets/favicon.ico # Icon displayed in the tab
 
 # Header and footer text
-header_text: <code>Welcome to my blog!</code> # Change Blog header text
+header_text: <code>greet('Hello, World!');</code> # Change Blog header text
 header_feature_image: assets/img/pexels/header-feature.jpg
 footer_text: >
   Find me on:
@@ -24,7 +24,7 @@ color_image: /assets/img/lineart.png # A bit transparent for color posts.
 # For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
 katex: true # Enable if using math markup
 mermaid: true # Enable mermaid-js for sequence and diagrams
-google_analytics: UA-202081985-1 # Tracking ID, e.g. "UA-000000-01"
+google_analytics: # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: false # To respect the usage of cookies
 color_theme: auto # auto, dark or light
 
