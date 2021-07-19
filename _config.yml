@@ -4,12 +4,12 @@ url: 'https://ammyat.vercel.app'
 
 # THEME-SPECIFIC CONFIGURATION
 title: AMMyat's Blog # site's title
-description: # used by search engines
+description: A space of sharing and learning # used by search engines
 avatar: assets/img/avatar.png # Empty for no avatar in navbar
 favicon: assets/favicon.ico # Icon displayed in the tab
 
 # Header and footer text
-header_text: <code>greet('Hello, World!');</code> # Change Blog header text
+header_text: Welcome To My Space! # Change Blog header text
 header_feature_image: assets/img/pexels/header-feature.jpg
 footer_text: >
   Find me on:
