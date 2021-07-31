@@ -47,6 +47,7 @@ it also works with only one images, it is made to display it smaller than normal
 However you can just use the Markdown way of doing it to get the image normal sized and centered.
 
 {% highlight ruby %}
+
 {% raw %}
 
 # Markdown way (bigger)
