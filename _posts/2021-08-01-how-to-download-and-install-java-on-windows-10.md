@@ -2,21 +2,30 @@
 layout: post
 title: How to Download & Install Java on Windows 10
 author: ammyat
-tags: [java, install, windows 10]
+tags: [java, install, windows 10, download, windows]
 excerpt_separator: <!--more-->
 ---
 
-**Java Programming Language** က ကမ္ဘာပေါ်မှာ အကျော်ကြားဆုံးနဲ့ အသုံးအများဆုံး Programming Language တွေထဲက တခုပါ။ ဒီ [Link](https://statisticstimes.com/tech/top-computer-languages.php) မှာသွားကြည့်မယ်ဆိုရင် ၂၀၂၁ ခုနှစ်အတွင်း ကမ္ဘာ့နိုင်ငံအသီးသီးရဲ့ လူကြိုက်အများဆုံး ထိပ်ဆုံး Programing Language သုံးခုထဲမှာ Java က အမြဲပါနေတာကိုတွေ့ရမှာပါ။
+**Java Programming Language** က ကမ္ဘာပေါ်မှာ အကျော်ကြားဆုံးနဲ့ အသုံးအများဆုံး Programming Language တွေထဲက တခုပါ။ ဒီ [link](https://statisticstimes.com/tech/top-computer-languages.php) မှာသွားကြည့်မယ်ဆိုရင် ၂၀၂၁ ခုနှစ်အတွင်း ကမ္ဘာ့နိုင်ငံအသီးသီးရဲ့ လူကြိုက်အများဆုံး ထိပ်ဆုံး Programing Language သုံးခုထဲမှာ Java က အမြဲပါနေတာကိုတွေ့ရမှာပါ။
 
 ဒီ Post မှာ ပြောပြချင်တာက Windows 10 ပေါ်မှာ Java ကို ဘယ်လို download လုပ်ပြီး install လုပ်ရမလဲ ဆိုတာကို တဆင့်ချင်း အသေးစိတ် ပြောပြသွားမှာပါ။
 
 <!--more-->
 
+- [Download လုပ်ခြင်း](#download-လုပ်ခြင်း)
+  - [Step 1: Oracle Java Download page ကို သွားပါ။](#step-1-oracle-java-download-page-ကို-သွားပါ)
+  - [Step 2: သုံးချင်တဲ့ JDK Version ကို ရွေးချယ်ပါ။](#step-2-သုံးချင်တဲ့-jdk-version-ကို-ရွေးချယ်ပါ)
+  - [Step 3: Operating System နဲ့ ကိုက်ညီတဲ့ Installer ကို Download လုပ်ပါ။](#step-3-operating-system-နဲ့-ကိုက်ညီတဲ့-installer-ကို-download-လုပ်ပါ)
+  - [Step 4: Oracle Account နဲ့ Log In ဝင်ပါ။](#step-4-oracle-account-နဲ့-log-in-ဝင်ပါ)
+- [Install လုပ်ခြင်း](#install-လုပ်ခြင်း)
+  - [Step 5: Java ကို Install လုပ်ပါ။](#step-5-java-ကို-install-လုပ်ပါ)
+- [Conclusion](#conclusion)
+
 # Download လုပ်ခြင်း
 
 ## Step 1: Oracle Java Download page ကို သွားပါ။
 
-ပထမဆုံးအနေနဲ့ Java ကို download လုပ်ဖို့ အတွက် https://www.oracle.com/java/technologies/javase-downloads.html ဒီ Link လေးကို တချက် Click လိုက်ပါ။ Java ကို Official ထုတ်ပေးနေတဲ့ Oracle website ရဲ့ download page ကို ရောက်သွားပါလိမ့်မယ်။
+ပထမဆုံးအနေနဲ့ Java ကို download လုပ်ဖို့ အတွက် [JavaSE: Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html) ဒီ Link လေးကို တချက် Click လိုက်ပါ။ Java ကို Official ထုတ်ပေးနေတဲ့ Oracle website ရဲ့ download page ကို ရောက်သွားပါလိမ့်မယ်။
 ![Official Oracle Website]({{ "/assets/img/java-download/OracleWebsite.jpg" | relative_url }})
 
 ## Step 2: သုံးချင်တဲ့ JDK Version ကို ရွေးချယ်ပါ။
@@ -25,7 +34,7 @@ excerpt_separator: <!--more-->
 
 ကိုယ်လိုချင်တဲ့ version ကိုရှာပြီးရင် `JDK Download` ဆိုတဲ့ link လေးကို တချက် click ပေးပါ။
 
-![Java SE 11 JDK Download]({{ "/assets/img/java-download/JavaSE11.png" | relative_url }})
+![Java SE 11 JDK Download]({{ "/assets/img/java-download/JavaSE11.PNG" | relative_url }})
 
 ## Step 3: Operating System နဲ့ ကိုက်ညီတဲ့ Installer ကို Download လုပ်ပါ။
 
@@ -44,7 +53,7 @@ Download ကို နှိပ်လိုက်တဲ့ အခါ **Oracle Lo
 
 # Install လုပ်ခြင်း
 
-## Step 5: Java ကို Install ပြုလုပ်ပါ။
+## Step 5: Java ကို Install လုပ်ပါ။
 
 Download လုပ်ပြီး ရလာတဲ့ `.exe` နဲ့ ဆုံးတဲ့ file ကို **Double Click** နှိပ်ပြီး Install လုပ်ရပါမယ်။ အကယ်၍ User Account Control ဆိုပြီး Yes or No မေးလာပါက Yes ကို ရွေးချယ်ပေးပါ။
 
@@ -56,7 +65,16 @@ Double Click နှိပ်လိုက်လျှင် Setup windows တခ�
 
 ![Installing Java]({{ "/assets/img/java-install/2.png" | relative_url }})
 
-`Next` ကို Click နှိပ်လိုက်ရင် Java ကို စပြီး Install လုပ်ပါပြီ။ အကုန်ပြီးသွားတဲ့အခါ `Close` ကို Click နှိပ်လိုက်ရင် Java SE Development Kit (JDK) ကို အဆင်ပြေပြေနဲ့ Install လုပ်လို့ ပြီးပါပြီ။
+`Next` ကို Click နှိပ်လိုက်ရင် Java ကို စပြီး Install လုပ်ပါပြီ။ 
+
 ![Installing Java]({{ "/assets/img/java-install/3.png" | relative_url }})
 
+အကုန်ပြီးသွားတဲ့အခါ `Close` ကို Click နှိပ်လိုက်ရင် Java JDK ကို Install လုပ်လို့ ပြီးပါပြီ။
+
 ![Installing Java]({{ "/assets/img/java-install/4.png" | relative_url }})
+
+# Conclusion
+
+အပေါ်မှာ ပြောပြခဲ့တာတွေက Windows 10 64-bit OS မှာ JavaSE Development Kit(JDK) ကို ဘယ်လို Install လုပ်ရမလဲဆိုတာပါ။ Java SE 11 ကိုပဲ လုပ်ပြခဲ့ပေမယ့် တခြား ဘယ် version ပဲဖြစ်ဖြစ် အကုန်လုံး အတူတူပါပဲ။
+
+ကျွန်တော်တို့ Install လုပ်ထားတဲ့ JDK ကို သုံးပြီး Java application တွေ ဖန်တီးဖို့အတွက် Install လုပ်ရုံနဲ့ မလုံလောက်သေးပါဘူး။ ကျွန်တော်တို့ သုံးနေတဲ့ OS က Java ကို သိအောင် Set up လုပ်ဖို့ လိုပါသေးတယ်။ ဒီအကြောင်းတွေကို နောက် post တခုမှာ ပြောပြမှာမို့လို့ စောင့်ကြည့်ပေးကြပါဦး။
