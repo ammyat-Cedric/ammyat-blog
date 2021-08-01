@@ -12,6 +12,8 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
+# Download လုပ်ခြင်း
+
 ## Step 1: Oracle Java Download page ကို သွားပါ။
 
 ပထမဆုံးအနေနဲ့ Java ကို download လုပ်ဖို့ အတွက် https://www.oracle.com/java/technologies/javase-downloads.html ဒီ Link လေးကို တချက် Click လိုက်ပါ။ Java ကို Official ထုတ်ပေးနေတဲ့ Oracle website ရဲ့ download page ကို ရောက်သွားပါလိမ့်မယ်။
@@ -39,3 +41,22 @@ excerpt_separator: <!--more-->
 
 Download ကို နှိပ်လိုက်တဲ့ အခါ **Oracle Login page** ကို ရောက်သွားပါလိမ့်မယ်။ အဲ့အတွက် account တခုလိုပါမယ်။ မရှိသေးရင် Create Account ကို နှိပ်ပြီး account တခု အရင်တည်ဆောက်ရပါမယ်။ အဲ့ account ကို သုံးပြီး Log in ဝင်လိုက်ရင်တော့ download စပြီး လုပ်ပါပြီ။
 ![Oracle Login Page]({{ "/assets/img/java-download/oracle-login.png" | relative_url }})
+
+# Install လုပ်ခြင်း
+
+## Step 5: Java ကို Install ပြုလုပ်ပါ။
+
+Download လုပ်ပြီး ရလာတဲ့ `.exe` နဲ့ ဆုံးတဲ့ file ကို **Double Click** နှိပ်ပြီး Install လုပ်ရပါမယ်။ အကယ်၍ User Account Control ဆိုပြီး Yes or No မေးလာပါက Yes ကို ရွေးချယ်ပေးပါ။
+
+Double Click နှိပ်လိုက်လျှင် Setup windows တခု ပုံမှာပါတဲ့အတိုင်း တက်လာပါလိမ့်မယ်။ `Next` ကို တချက် Click နှိပ်ပေးပါ။
+
+![Installing Java]({{ "/assets/img/java-install/1.png" | relative_url }})
+
+နောက်တဆင့်က ကိုယ့်ရဲ့ စက်ထဲမှာ Java ကို Install လုပ်ဖို့အတွက် Destination folder ကို ရွေးရမှာပါ။ Default အနေနဲ့ ပေးထားတဲ့ နေရာက `C:\Program Files\Java\jdk-11.0.12` ဆိုပြီး ပုံမှာ ပါတဲ့အတိုင်းတွေ့ရပါလိမ့်မယ်။ ကိုယ့်စိတ်ကြိုက် ပြောင်းလဲချင်တယ်ဆိုရင် `Change...` ကို Click နှိပ်ပြီး ပြောင်းနိုင်ပါတယ်။ ဒီမှာတော့ ပေးထားတဲ့ Default location အတိုင်းပဲ ဆက်သွားပါမယ်။
+
+![Installing Java]({{ "/assets/img/java-install/2.png" | relative_url }})
+
+`Next` ကို Click နှိပ်လိုက်ရင် Java ကို စပြီး Install လုပ်ပါပြီ။ အကုန်ပြီးသွားတဲ့အခါ `Close` ကို Click နှိပ်လိုက်ရင် Java SE Development Kit (JDK) ကို အဆင်ပြေပြေနဲ့ Install လုပ်လို့ ပြီးပါပြီ။
+![Installing Java]({{ "/assets/img/java-install/3.png" | relative_url }})
+
+![Installing Java]({{ "/assets/img/java-install/4.png" | relative_url }})
